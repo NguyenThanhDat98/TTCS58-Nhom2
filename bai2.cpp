@@ -197,7 +197,7 @@ void duyet(hk *dau)
 			printf("\n Danh sach cac con:");
 			duyetcon(p->tcon);
 			printf("\n Danh sach xe cua ho:");
-			duyetcon(p->txe);
+			duyetxe(p->txe);
 			
 		}
 		
